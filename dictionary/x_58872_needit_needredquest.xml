@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sc_request" label="NeedRedquest" max_length="40" name="x_58872_needit_needredquest" type="collection"/>
+</database>
