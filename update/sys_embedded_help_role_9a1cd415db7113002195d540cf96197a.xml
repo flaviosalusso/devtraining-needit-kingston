@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="u_cleanup_rule_user" name="u_cleanup_rule_user">9301e9e44faba200e1bcf8e18110c727</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-04-29 21:30:03</sys_created_on>
+        <sys_id>9a1cd415db7113002195d540cf96197a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9301e9e44faba200e1bcf8e18110c727</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_embedded_help_role_9a1cd415db7113002195d540cf96197a</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-04-29 21:30:03</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
